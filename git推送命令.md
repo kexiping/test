@@ -6,7 +6,8 @@
 # 1.连接
 1、初始化 git init
 
-2、连接远程仓库 git remote add https://github.com/kexiping/test.git
+2、连接远程仓库 git remote add origin https://github.com/kexiping/test.git
+
 # 2.拉取与推送
 1、把GitHub上面的文件拉取下来
 
